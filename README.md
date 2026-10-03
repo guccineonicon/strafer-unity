@@ -8,13 +8,13 @@ This is the Unity port of the original Unreal Engine 5.8 C++ version ([guccineon
 
 ## Requirements
 
-- Unity 6 (6000.0 or newer)
+- Unity 6.6 (6000.6)
 - [Git LFS](https://git-lfs.com) for binary assets (`git lfs install` once per machine)
 
 ## Getting started
 
 1. Clone the repository and run `git lfs pull`.
-2. In Unity Hub, choose **Add > Add project from disk** and pick the repository folder. Open it with Unity 6.
+2. In Unity Hub, choose **Add > Add project from disk** and pick the repository folder. Open it with Unity 6.6.
 3. If Unity asks to enable the new Input System backends, click **Yes**. The editor restarts.
 4. Open any scene (a new empty scene works) and press **Play**.
 

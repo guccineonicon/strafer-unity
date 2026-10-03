@@ -27,7 +27,7 @@ Examples:
 
 ## Unity specifics
 
-- Commit every `.meta` file Unity generates alongside its asset. A missing `.meta` breaks references for everyone else.
+- Commit `ProjectSettings/` and every `.meta` file Unity generates alongside its asset. A missing `.meta` breaks references for everyone else.
 - Keep scenes and prefabs small and focused so merges stay manageable.
 - Binary assets (textures, models, audio, fonts) go through Git LFS. See `.gitattributes`.
 
