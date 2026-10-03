@@ -1,0 +1,26 @@
+{
+    "name": "Strafer.URP",
+    "rootNamespace": "Strafer.URP",
+    "references": [
+        "Strafer",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.Universal.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "STRAFER_URP"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "",
+            "define": "STRAFER_URP"
+        }
+    ],
+    "noEngineReferences": false
+}
