@@ -8,7 +8,7 @@ This is the Unity port of the original Unreal Engine 5.8 C++ version ([guccineon
 
 ## Requirements
 
-- Unity 6.6 (6000.6)
+- Unity 6.6 (6000.6.3f1)
 - [Git LFS](https://git-lfs.com) for binary assets (`git lfs install` once per machine)
 
 ## Getting started
